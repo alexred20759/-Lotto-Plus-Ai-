@@ -44,40 +44,11 @@ L'obiettivo è rendere l'analisi statistica accessibile a tutti, senza richieder
 
 ## 🖥️ Galleria immagini
 
-### Storico delle estrazioni
-
-<p align="center">
-  <img src="01_storico_estrazioni.png" width="90%" alt="Storico delle estrazioni">
-</p>
-
-### Analisi con intelligenza artificiale
-
-<p align="center">
-  <img src="02_analisi_ai.png" width="90%" alt="Assistente AI">
-</p>
-
-### Analisi dei numeri frequenti
-
-<p align="center">
-  <img src="03_numeri_frequenti.png" width="90%" alt="Numeri frequenti">
-</p>
-
-### Metodi di gioco
-
-<p align="center">
-  <img src="04_metodi_di_gioco.png" width="90%" alt="Metodi di gioco">
-</p>
 
 ### Metodo Roma - Venezia
 
 <p align="center">
   <img src="05_metodo_roma_venezia.png" width="90%" alt="Metodo Roma Venezia">
-</p>
-
-### Metodo Nazionale - Bari
-
-<p align="center">
-  <img src="06_metodo_nazionale_bari.png" width="90%" alt="Metodo Nazionale Bari">
 </p>
 
 ---
@@ -165,4 +136,9 @@ Il software deve essere utilizzato esclusivamente a scopo informativo e statisti
 
 <p align="center">
   <strong>Lotto Plus AI</strong> – Analisi, statistica e intelligenza artificiale.
+</p>
+### Metodo Nazionale - Bari
+
+<p align="center">
+  <img src="06_metodo_nazionale_bari.png" width="90%" alt="Metodo Nazionale Bari">
 </p>
