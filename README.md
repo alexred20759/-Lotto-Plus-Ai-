@@ -45,7 +45,6 @@ L'obiettivo è rendere l'analisi statistica accessibile a tutti, senza richieder
 ## 🖥️ Galleria immagini
 
 
-### Metodo Roma - Venezia
 
 <p align="center">
   <img src="05_metodo_roma_venezia.png" width="90%" alt="Metodo Roma Venezia">
