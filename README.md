@@ -32,6 +32,15 @@ Grazie all'assistente AI integrato, è possibile porre domande, chiedere spiegaz
 
 L'obiettivo è rendere l'analisi statistica accessibile a tutti, senza richiedere conoscenze matematiche o informatiche avanzate.
 
+### Schermata di Lotto Plus AI
+
+<p align="center">
+  <img
+    src="Screenshot%202026-11-02%20121449.png"
+    width="90%"
+    alt="Schermata di Lotto Plus AI">
+</p>
+
 ## ✨ Funzionalità principali
 
 - 📊 **Storico delle estrazioni:** consultazione dei dati storici del Lotto.
