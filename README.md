@@ -139,7 +139,9 @@ Il software deve essere utilizzato esclusivamente a scopo informativo e statisti
 ---
 
 <p align="center">
-  Made with ❤️ in Italy
+  © 2026 Lotto Plus AI — Tutti i diritti riservati.
+  <br>
+  Made with ❤️ in Italy 🇮🇹
 </p>
 
 <p align="center">
