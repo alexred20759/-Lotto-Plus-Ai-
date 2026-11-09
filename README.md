@@ -137,7 +137,7 @@ Il software deve essere utilizzato esclusivamente a scopo informativo e statisti
 <p align="center">
   <strong>Lotto Plus AI</strong> – Analisi, statistica e intelligenza artificiale.
 </p>
-### Metodo Nazionale - Bari
+
 
 <p align="center">
   <img src="06_metodo_nazionale_bari.png" width="90%" alt="Metodo Nazionale Bari">
